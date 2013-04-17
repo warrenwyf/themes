@@ -1,4 +1,4 @@
-themes
+Themes
 ======
 
 Themes for IDEs/Editors.
